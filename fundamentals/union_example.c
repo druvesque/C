@@ -1,0 +1,11 @@
+#include<stdio.h>
+union Data {
+    int i;
+    float f;
+    char str[20];
+};
+
+void main() {
+    union Data data;
+    printf("Memory size occupied by data: %d\n", sizeof(data));
+}
