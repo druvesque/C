@@ -17,3 +17,14 @@
 //
 // ---> Switch-case: case must have a constant values and it's data type should match the switch statement variable.
 //                   permissible data-types: int, char, short, long, enum
+//
+//
+// ---> Conditional Statements: (if, else if, else), switch-case, ternary operator
+//
+// ---> Loops: for, while, do-while
+//
+// ---> Important for loop point, syntax: for(initialization, condition, increment/decrement) {}
+//                                        1. initialization is done at the beginning of the for loop
+//                                        2. then the condition is checked, if true, flow goes inside the body of for loop
+//                                        3. after the execution of body, then increment/decrement statement is executed
+//                                        4. again condition is checked, back to step 2 else out of the loop
