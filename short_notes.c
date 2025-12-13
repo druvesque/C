@@ -13,4 +13,7 @@
 //
 // ---> There is no such thing as unsigned float, unsigned double, unsigned long double in C.
 //
+// ---> Shortcircuiting happens in logical operators.
 //
+// ---> Switch-case: case must have a constant values and it's data type should match the switch statement variable.
+//                   permissible data-types: int, char, short, long, enum
