@@ -28,3 +28,14 @@
 //                                        2. then the condition is checked, if true, flow goes inside the body of for loop
 //                                        3. after the execution of body, then increment/decrement statement is executed
 //                                        4. again condition is checked, back to step 2 else out of the loop
+//
+//
+// ---> Storage Classes: Auto, Extern, Register, Static (attributes: keyword, default storage value, storage in memory, life-time, scope)
+//      1. Auto: keyword -> auto, storage -> memory (stack), default value -> garbage, scope -> local, life-time -> within block 
+//      2. Register: keyword -> register, storage -> CPU register, default value -> garbage, scope -> local, life-time -> within the block
+//      3. Static: keyword -> static, storage -> DOUBT, default value -> 0, scope -> local, life-time -> within the block
+//      4. Extern: keyword -> extern, storage -> DOUBT, default value -> 0, scope -> global, life-time -> throughout the program 
+//
+//
+//
+//
