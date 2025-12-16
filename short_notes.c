@@ -36,6 +36,12 @@
 //      3. Static: keyword -> static, storage -> DOUBT, default value -> 0, scope -> local, life-time -> within the block
 //      4. Extern: keyword -> extern, storage -> DOUBT, default value -> 0, scope -> global, life-time -> throughout the program 
 //
+// ---> Functions: Return type (can have only 1 return type), function name, arguments
+//                 Steps in a function: 
+//                     1. Declaration
+//                     2. Definition
+//                     3. Calling
+//
 //
 //
 //
