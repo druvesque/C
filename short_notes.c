@@ -46,5 +46,10 @@
 //                             2. int arr[5] = {1, 2, 3, 4, 5, 6};      ---> indexing starts from 0, 5 is the size of the array, here
 //                             3. int arr[] = {2, 4, 5, 3, 4, 5, 6};
 //
+// ---> 2D Array Initialization: 1. int arr[4][5];                      ---> it is mandatory to mention number of columns, rows is optional
+//                               2. int arr[][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}, {10, 11, 12}};
+//                               3. int arr[][2] = {12, 45, 13, 16, 18, 29, 38, 76};
+//      *** 2D arrays are stored in contiguous fashion the memory, it may be row by row or column by column.
+//
 // ---> Strings: no need of '&' when we scanf a string, also you can't have ' ' (blank space), when you scanf a string. 
 //               Functions: strlen(s1), strcpy(destination, source), strcat(s1, s2) {joins s2 at the end of s1}, strcmp(s1, s2)
