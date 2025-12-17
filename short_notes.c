@@ -42,6 +42,9 @@
 //                     2. Definition
 //                     3. Calling
 //
+// ---> Array initializations: 1. int arr[5];                           ---> default values in an array are garbage values
+//                             2. int arr[5] = {1, 2, 3, 4, 5, 6};      ---> indexing starts from 0, 5 is the size of the array, here
+//                             3. int arr[] = {2, 4, 5, 3, 4, 5, 6};
 //
-//
-//
+// ---> Strings: no need of '&' when we scanf a string, also you can't have ' ' (blank space), when you scanf a string. 
+//               Functions: strlen(s1), strcpy(destination, source), strcat(s1, s2) {joins s2 at the end of s1}, strcmp(s1, s2)
