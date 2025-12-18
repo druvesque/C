@@ -53,3 +53,6 @@
 //
 // ---> Strings: no need of '&' when we scanf a string, also you can't have ' ' (blank space), when you scanf a string. 
 //               Functions: strlen(s1), strcpy(destination, source), strcat(s1, s2) {joins s2 at the end of s1}, strcmp(s1, s2)
+//
+// ---> Pointers: unsigned integers that store address to some other variable. Size: 8 bytes for all types of pointers
+//                Types: float, int, char types of pointers
