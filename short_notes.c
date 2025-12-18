@@ -54,5 +54,11 @@
 // ---> Strings: no need of '&' when we scanf a string, also you can't have ' ' (blank space), when you scanf a string. 
 //               Functions: strlen(s1), strcpy(destination, source), strcat(s1, s2) {joins s2 at the end of s1}, strcmp(s1, s2)
 //
+// *** ALWAYS REVISE POINTERS ***
+//
 // ---> Pointers: unsigned integers that store address to some other variable. Size: 8 bytes for all types of pointers
 //                Types: float, int, char types of pointers
+//                
+// ---> Command Line Arguments: argc -> number of arguments, argv[] -> pointer array which points to each argument list passed to the progarm
+//                                                           argv[0] -> holds the name of the program itself
+//                                                           arguments are used after doing gcc, when we run the program using .exe file
