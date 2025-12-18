@@ -62,3 +62,8 @@
 // ---> Command Line Arguments: argc -> number of arguments, argv[] -> pointer array which points to each argument list passed to the progarm
 //                                                           argv[0] -> holds the name of the program itself
 //                                                           arguments are used after doing gcc, when we run the program using .exe file
+//
+// ---> Miscellaneous Concepts: Variable Length Argument, Token-pasting, Stringizing Operator
+//
+// ---> Structure: the elements of the structure are always stored in the contiguous memory location, irrespective of the data type.
+//                 Revise how a struct is stored in the memory, sizeof(struct) & padding during struct storage
