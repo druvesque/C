@@ -1,0 +1,2 @@
+The number stored in the file: 5
+The number stored in the file: 10

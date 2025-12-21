@@ -86,3 +86,9 @@
 //
 //                  c) Realloc: (cast_type *)realloc(ptr_name, new_size); new_size: n*sizeof(int)
 //                              returns a pointer of the cast_type and if it fails, returns NULL                  
+//
+// ---> File I/O: Methods - fprintf(), fscanf(), fread(), fwrite(), fopen(), fclose() ...
+//                Types: Text & Binary
+//                Operations: Creating, Opening, Closing, Reading from and Writing to a File
+//                Modes: r, rb, w, wb, a, ab, r+, rb+ (b -> binary mode), (w, a overwrites if file exists otherwise create)
+//                                                    (a -> append to the end of the file), (r+/rb+ -> both reading and writing)
