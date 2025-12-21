@@ -69,3 +69,5 @@
 //                 Revise how a struct is stored in the memory, sizeof(struct) & padding during struct storage
 //
 // ---> Union: special data type, only one of the attributes is stored so memory location can be shared among multiple attributes
+//
+// ---> Bit Fields: When you try to go beyond bit limit, it returns only the least significant legal bits. 
