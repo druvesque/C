@@ -71,3 +71,18 @@
 // ---> Union: special data type, only one of the attributes is stored so memory location can be shared among multiple attributes
 //
 // ---> Bit Fields: When you try to go beyond bit limit, it returns only the least significant legal bits. 
+//
+// ---> Memory Allocation
+//      1. Static: memory is allocated during compilation time itself, this memory cannot be expanded to accomodate more or less data.
+//      2. Dynamic: memory is allocated during run-time itself, it allows varialbe length data types and structures whenever required
+//                  done using malloc, calloc & realloc, deallocated using free
+//
+//                  a) Malloc: (cast_type *)malloc(sizeof(data_type));
+//                             returns a pointer to the allocated space of type void / specified (above in the syntax), if it fails then NULL
+//                             default value is garbage
+//
+//                  b) Calloc: (cast_type *)calloc(number_of_elements, sizeof 1 element);
+//                             returns a pointer of the cast_type and if it fails, returns NULL
+//
+//                  c) Realloc: (cast_type *)realloc(ptr_name, new_size); new_size: n*sizeof(int)
+//                              returns a pointer of the cast_type and if it fails, returns NULL                  
