@@ -67,3 +67,5 @@
 //
 // ---> Structure: the elements of the structure are always stored in the contiguous memory location, irrespective of the data type.
 //                 Revise how a struct is stored in the memory, sizeof(struct) & padding during struct storage
+//
+// ---> Union: special data type, only one of the attributes is stored so memory location can be shared among multiple attributes
