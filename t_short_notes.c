@@ -92,3 +92,8 @@
 //                Operations: Creating, Opening, Closing, Reading from and Writing to a File
 //                Modes: r, rb, w, wb, a, ab, r+, rb+ (b -> binary mode), (w, a overwrites if file exists otherwise create)
 //                                                    (a -> append to the end of the file), (r+/rb+ -> both reading and writing)
+//
+// ---> TRICKY POINTS
+//      1. When we pass an array to the function, the function essentially receives the pointer to the first element of the array. 
+//         Size must be passed explicitly to the function as a separate argument.
+//      2. *** malloc() function implicitly types cast the pointer to the type that is required.
