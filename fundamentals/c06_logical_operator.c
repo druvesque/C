@@ -1,3 +1,6 @@
+// DESC: C Program to understand functionality 
+//       of logical operators
+
 #include<stdio.h>
 
 int main() {

@@ -1,3 +1,5 @@
+// DESC: C Program to understand register storage class
+
 #include<stdio.h>
 
 int main() {

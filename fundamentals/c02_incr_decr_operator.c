@@ -1,3 +1,6 @@
+// DESC: Basic program to understand working of 
+//       increment / decrement operators in C
+
 #include<stdio.h>
 
 int main() {

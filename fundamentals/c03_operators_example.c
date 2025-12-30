@@ -1,3 +1,6 @@
+// DESC: Basic program to understand fundamental 
+//       operators in C
+
 #include<stdio.h>
 
 void main() {

@@ -1,3 +1,5 @@
+// DESC: C Program to understand nesting of for loops
+
 #include<stdio.h>
 
 int main() {

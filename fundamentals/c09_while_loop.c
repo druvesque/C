@@ -1,3 +1,5 @@
+// DESC: C Program to understand while loop
+
 #include<stdio.h>
 
 int main() {

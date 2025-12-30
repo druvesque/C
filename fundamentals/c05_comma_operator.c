@@ -1,3 +1,5 @@
+// DESC: C Program to understand comma operator
+
 #include<stdio.h>
 
 int main() {

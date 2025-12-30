@@ -1,3 +1,5 @@
+// DESC: C Program to understand switch case logic
+
 #include<stdio.h>
 
 int main() {

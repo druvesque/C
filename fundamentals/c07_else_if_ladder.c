@@ -1,3 +1,5 @@
+// DESC: C Program to understand else if ladder
+
 #include<stdio.h>
 
 int main() {

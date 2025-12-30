@@ -1,3 +1,5 @@
+// DESC: C Program to understand for loop
+
 #include<stdio.h>
 
 int main() {

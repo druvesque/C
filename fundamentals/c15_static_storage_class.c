@@ -1,3 +1,5 @@
+// DESC: C Program to understand static storage class
+
 #include<stdio.h>
 
 void dec(); 

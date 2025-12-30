@@ -1,3 +1,5 @@
+// DESC: C Program to understand nested if block
+
 #include<stdio.h>
 
 int main() {

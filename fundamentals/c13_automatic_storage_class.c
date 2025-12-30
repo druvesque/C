@@ -1,3 +1,5 @@
+// DESC: C Program to understand automatic storage class
+
 #include<stdio.h>
 
 int main() {
