@@ -1,3 +1,5 @@
+// DESC: C Program to understand the fundamentals of pointers
+
 #include<stdio.h>
 
 int main() {

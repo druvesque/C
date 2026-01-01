@@ -1,3 +1,9 @@
+// DESC: C Program to understand to calculate number
+//       of upper-case, lower-case, special characters
+//       and numbers in an input
+//
+// UPDATE: add the strcspn for the accurate result
+
 #include<stdio.h>
 
 int main() {

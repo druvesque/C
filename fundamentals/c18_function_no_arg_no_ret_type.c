@@ -1,3 +1,6 @@
+// DESC: C Program to understand a function
+//       with no argument and no return type
+
 #include<stdio.h>
 
 void main() {

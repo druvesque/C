@@ -1,3 +1,6 @@
+// DESC: C Program to understand strings using 
+//       gets and puts
+
 #include<stdio.h>
 
 int main() {

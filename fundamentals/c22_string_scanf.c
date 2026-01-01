@@ -1,3 +1,6 @@
+// DESC: C Program to understand string
+//       printf and scanf
+
 #include<stdio.h>
 
 int main() {

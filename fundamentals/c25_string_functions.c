@@ -1,3 +1,5 @@
+// DESC: C Program to understand string methods (strcpy, strlen, strcat)
+
 #include<stdio.h>
 #include<string.h>
 
