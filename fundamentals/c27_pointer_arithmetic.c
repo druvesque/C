@@ -1,3 +1,5 @@
+// DESC: C Program to understand pointer arithmetic
+
 #include<stdio.h>
 
 int main() {
