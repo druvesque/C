@@ -1,3 +1,5 @@
+// DESC: C Program to understand call by reference
+
 #include<stdio.h>
 
 void alter(int*);

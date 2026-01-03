@@ -1,3 +1,5 @@
+// DESC: C Program to understand call by value
+
 #include<stdio.h>
 
 void alter(int);

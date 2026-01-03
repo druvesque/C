@@ -1,3 +1,5 @@
+// DESC: C Program to understand pointer to a pointer
+
 #include<stdio.h>
 
 int main() {
