@@ -1,3 +1,5 @@
+// DESC: C Program to understand array of pointers concept
+
 #include<stdio.h>
 
 int main() {

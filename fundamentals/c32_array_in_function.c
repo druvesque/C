@@ -1,3 +1,6 @@
+// DESC: C Program to understand the usage of 
+//       arrays in function through linear search problem
+
 #include<stdio.h>
 
 int linear_search(int*, int); 
