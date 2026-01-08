@@ -1,3 +1,6 @@
+// DESC: C Program to understand how command line arguments
+//       are supplied and processed
+
 #include<stdio.h>
 
 int main(int argc, char *argv[]) {

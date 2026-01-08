@@ -1,3 +1,5 @@
+// DESC: Example - 1 to understand token pasting in C
+
 #include<stdio.h>
 #define paster(n) printf("\ntoken"#n" = %d", token##n);
 int token8 = 878;

@@ -1,3 +1,5 @@
+// DESC: C Program to understand the syntax of dealloc function
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>

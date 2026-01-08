@@ -1,4 +1,6 @@
-// NOTE: The idea is to be able to run one function with different number of arguments.
+// DESC: C Program to understand the concept of passing
+//       different number of arguments to the function
+
 #include<stdio.h>
 #include<stdarg.h>
 
