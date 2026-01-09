@@ -1,3 +1,5 @@
+// DESC: C Program to understand '.' operator in struct
+
 #include<stdio.h>
 
 struct address {

@@ -1,3 +1,5 @@
+// DESC: Example-2 of stringizing operator in C
+
 #include<stdio.h>
 #define makechar(x) #x
 

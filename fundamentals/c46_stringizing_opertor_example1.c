@@ -1,3 +1,5 @@
+// DESC: Example-1 of stringizing operator in C
+
 #include<stdio.h>
 #define str(x) #x
 #define Xstr(x) str(x)

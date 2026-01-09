@@ -1,3 +1,5 @@
+// DESC: C Program to understand the fundamentals of struct data type
+
 #include<stdio.h>
 
 int main() {
